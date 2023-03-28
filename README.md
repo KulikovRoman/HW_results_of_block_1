@@ -17,4 +17,4 @@
 
 ### Картинка блок-схемы
 
-![hw_res_block1] (hw_res_block1.jpg)
+![hw_res_block1](hw_res_block1.jpg)
